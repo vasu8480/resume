@@ -1,0 +1,13 @@
+The title of my project is IOT Based Real-Time Humidity Temperature Monitor on AWS Cloud Service. The primary objective of the project is for someone in another location to be able to switch on or off their AC or fan from where they are located.
+
+the technologies used are ec2 services in aws which act as a server,iot , for a web page design, html,css,javascript,for receiving the send data we use python paho mqtt module,to store the data phpmyadmin and mysql.hardware components used are nodemcu and dht11 sensor.
+
+ I have broken my project into three main modules, the first is sending data from the source,
+
+ the second is to receive information and store it in a cloud server
+
+ and the final one is to display the data to the user and takes the end user entry.
+
+
+comclusion:
+	The user can view real-time data either in table or a graphical analyses.An user can turn on or turn off his fan or Ac.

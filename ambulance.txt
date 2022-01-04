@@ -1,0 +1,7 @@
+The title of my project is Ambulance Detector.The main concept behind the project is to provide a smooth flow for the ambulance to reach the hospitals in time and there by minimizing the delay caused by traffic congestion.
+
+
+the technologies used are Iot,Hardware used is ardinuo,RFID receiver and transmitter.
+
+The  RFID system is used to alter the traffic lights upon its arrival at traffic light junction which would save lives at critical time.
+
