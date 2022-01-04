@@ -1,6 +1,6 @@
 First of all, I would like to begin by thanking you for giving me the opportunity to introduce myself. My name is Vasu.I hail from Pithapuram. I’m currently pursuing my engineering in the stream of Electronics and communication at Aditya engineering college. 
 
-Speaking of my achievements, I won a silver medal in MTSO when I was 10th Standard,I received more than 40 digital badges from various companies like IBM, Aws and Cisco,Google.I attended the Google Cloud, Ec Councell, ibm and AWS webinar sessions.
+Speaking of my achievements, I won a silver medal in MTSO when I was 10th Standard,I received more than 40 digital badges from various companies like IBM, Aws and Cisco,Google.I attended the Google Cloud, Ec Councell, ibm and AWS webinar sessions.I am currently completing my internship with Technical Hub as an AWS and Devops intern.
 
 I have completed some certifications on AWS Certified Solution Architect Associate,MTA Security Fundamentals, Microsoft Certified: Azure Fundamentals, Aviatrix Certified Engineer, and Juniper Networks Certified Associate.I completed the End of Course completion Certificate in the domains of CCNA Cyber ops, Internet of Things, NDG Linux, introduction to networking.
 
